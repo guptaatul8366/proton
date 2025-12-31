@@ -2,7 +2,7 @@
 
 A database of CVEs and GitHub-originated security advisories affecting the open source world. 
 ##############################
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&%%%%%%
 
 The database is free and open source and is a tool for and by the community.
 
